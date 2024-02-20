@@ -1,7 +1,7 @@
 export default function Page() {
   return (
     <main>
-      <h1>Home Page</h1>
+      <h1>Set New Password</h1>
     </main>
   );
 }
